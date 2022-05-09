@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e1dfbba.css",
-    "main.js": "/static/js/main.851b318f.js",
-    "static/js/787.a333eff8.chunk.js": "/static/js/787.a333eff8.chunk.js",
-    "index.html": "/index.html",
-    "main.9e1dfbba.css.map": "/static/css/main.9e1dfbba.css.map",
-    "main.851b318f.js.map": "/static/js/main.851b318f.js.map",
-    "787.a333eff8.chunk.js.map": "/static/js/787.a333eff8.chunk.js.map"
+    "main.css": "/Single-price-grid-component/static/css/main.9e1dfbba.css",
+    "main.js": "/Single-price-grid-component/static/js/main.bd65accc.js",
+    "static/js/787.a333eff8.chunk.js": "/Single-price-grid-component/static/js/787.a333eff8.chunk.js",
+    "index.html": "/Single-price-grid-component/index.html",
+    "main.9e1dfbba.css.map": "/Single-price-grid-component/static/css/main.9e1dfbba.css.map",
+    "main.bd65accc.js.map": "/Single-price-grid-component/static/js/main.bd65accc.js.map",
+    "787.a333eff8.chunk.js.map": "/Single-price-grid-component/static/js/787.a333eff8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e1dfbba.css",
-    "static/js/main.851b318f.js"
+    "static/js/main.bd65accc.js"
   ]
 }
